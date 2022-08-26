@@ -59,13 +59,13 @@ a{ background: none; text-decoration: none; font-family: Arial, Helvetica, sans-
 
 } */
 
-.container {
-    display: flex; /* flex es la propiedad para mover la ubicacion de los contenedores */
+/*.container {
+    display: flex; /* flex es la propiedad para mover la ubicacion de los contenedores 
     flex-direction: row;
     justify-content: flex-start;
     flex-wrap: wrap;
 }
-
+*/
 .icono {
     height: 35px;
     width: 35px;
